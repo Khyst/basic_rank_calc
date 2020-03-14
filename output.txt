@@ -1,5 +1,1 @@
-1분반 2019270612번
-237점
-ratings: 59/278
-percentage : 21.223021582733814%
-expected grade : A0
+
